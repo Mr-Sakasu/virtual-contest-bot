@@ -1,5 +1,5 @@
 # Virtual Contest Bot
-![Uploading image.png…]()
+<img width="747" height="646" alt="image" src="https://github.com/user-attachments/assets/70472fd7-c4e1-4d87-9d5b-6b3ff8222221" />
 
 AtCoder Problems のバーチャルコンテスト一覧を巡回し、開始前・本日開催・終了直後のコンテスト情報を X/Twitter に通知する bot です。
 
