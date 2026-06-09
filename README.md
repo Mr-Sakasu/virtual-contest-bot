@@ -1,16 +1,10 @@
 # Virtual Contest Bot
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="360">
-        <img width="320" alt="Virtual Contest Bot screenshot" src="https://github.com/user-attachments/assets/70472fd7-c4e1-4d87-9d5b-6b3ff8222221" />
-      </td>
-      <td align="center" width="360">
-        <img width="320" alt="Virtual Contest Bot notification screenshot" src="https://github.com/user-attachments/assets/b1edf6a4-dac4-4fec-8341-cfb167544f20" />
-      </td>
-    </tr>
-  </table>
+  <img width="460" alt="Virtual Contest Bot screenshot" src="https://github.com/user-attachments/assets/70472fd7-c4e1-4d87-9d5b-6b3ff8222221" />
+  <br />
+  <br />
+  <img width="460" alt="Virtual Contest Bot notification screenshot" src="https://github.com/user-attachments/assets/b1edf6a4-dac4-4fec-8341-cfb167544f20" />
 </div>
 
 AtCoder Problems のバーチャルコンテスト一覧を巡回し、開始前・本日開催・終了直後のコンテスト情報を X/Twitter に通知する bot です。
