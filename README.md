@@ -1,11 +1,22 @@
 # Virtual Contest Bot
-<img width="747" height="646" alt="image" src="https://github.com/user-attachments/assets/70472fd7-c4e1-4d87-9d5b-6b3ff8222221" />
-<img width="521" height="253" alt="image" src="https://github.com/user-attachments/assets/b1edf6a4-dac4-4fec-8341-cfb167544f20" />
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="360">
+        <img width="320" alt="Virtual Contest Bot screenshot" src="https://github.com/user-attachments/assets/70472fd7-c4e1-4d87-9d5b-6b3ff8222221" />
+      </td>
+      <td align="center" width="360">
+        <img width="320" alt="Virtual Contest Bot notification screenshot" src="https://github.com/user-attachments/assets/b1edf6a4-dac4-4fec-8341-cfb167544f20" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 AtCoder Problems のバーチャルコンテスト一覧を巡回し、開始前・本日開催・終了直後のコンテスト情報を X/Twitter に通知する bot です。
 
 - GitHub: https://github.com/Mr-Sakasu/virtual-contest-bot
+- 公開アカウント: https://x.com/contest_bot_mcc
 - 種別: 競技プログラミング支援 bot、通知自動化、Web scraping
 - 対象: AtCoder Problems Virtual Contest
 
